@@ -1,2 +1,2 @@
-# Diamond-coin-
+# shadows coin-
 Org.chromium.webapk
